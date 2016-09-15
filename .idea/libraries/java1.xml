@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="java1">
+    <CLASSES>
+      <root url="file://C:/apache/commons-lang3-3.4" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://C:/apache/commons-lang3-3.4/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://C:/apache/poi-3.15-beta2/osgi/src/main/java" />
+      <root url="file://C:/apache/poi-3.15-beta2/osgi/src/test/java" />
+      <root url="file://C:/apache/poi-3.15-beta2/src/contrib/poi-ruby/java" />
+      <root url="file://C:/apache/poi-3.15-beta2/src/examples/src" />
+      <root url="file://C:/apache/poi-3.15-beta2/src/excelant/java" />
+      <root url="file://C:/apache/poi-3.15-beta2/src/excelant/testcases" />
+      <root url="file://C:/apache/poi-3.15-beta2/src/integrationtest" />
+      <root url="file://C:/apache/poi-3.15-beta2/src/java" />
+      <root url="file://C:/apache/poi-3.15-beta2/src/ooxml/java" />
+      <root url="file://C:/apache/poi-3.15-beta2/src/ooxml/testcases" />
+      <root url="file://C:/apache/poi-3.15-beta2/src/scratchpad/src" />
+      <root url="file://C:/apache/poi-3.15-beta2/src/scratchpad/testcases" />
+      <root url="file://C:/apache/poi-3.15-beta2/src/testcases" />
+    </SOURCES>
+    <jarDirectory url="file://C:/apache/commons-lang3-3.4" recursive="false" />
+  </library>
+</component>
